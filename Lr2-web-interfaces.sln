@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lr2-web-interfaces", "Lr2-web-interfaces\Lr2-web-interfaces.csproj", "{C3611C53-AC80-41BF-A6C4-726256D325A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3611C53-AC80-41BF-A6C4-726256D325A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3611C53-AC80-41BF-A6C4-726256D325A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3611C53-AC80-41BF-A6C4-726256D325A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3611C53-AC80-41BF-A6C4-726256D325A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B69EBB6B-53E9-46F9-B690-90FC8514ECA4}
+	EndGlobalSection
+EndGlobal
